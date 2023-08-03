@@ -1,0 +1,64 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Roger Federer",
+        "country": "Switzerland",
+        "rank": 3
+      },
+      {
+        "id": 2,
+        "name": "Rafael Nadal",
+        "country": "Spain",
+        "rank": 2
+      },
+      {
+        "id": 3,
+        "name": "Novak Djokovic",
+        "country": "Serbia",
+        "rank": 1
+      },
+      {
+        "id": 4,
+        "name": "Serena Williams",
+        "country": "United States",
+        "rank": 9
+      },
+      {
+        "id": 5,
+        "name": "Naomi Osaka",
+        "country": "Japan",
+        "rank": 10
+      },
+      {
+        "id": 6,
+        "name": "Ashleigh Barty",
+        "country": "Australia",
+        "rank": 5
+      },
+      {
+        "id": 7,
+        "name": "Simona Halep",
+        "country": "Romania",
+        "rank": 4
+      },
+      {
+        "id": 8,
+        "name": "Dominic Thiem",
+        "country": "Austria",
+        "rank": 6
+      },
+      {
+        "id": 9,
+        "name": "Stefanos Tsitsipas",
+        "country": "Greece",
+        "rank": 7
+      },
+      {
+        "id": 10,
+        "name": "Alexander Zverev",
+        "country": "Germany",
+        "rank": 8
+      }
+    ]
+  }
